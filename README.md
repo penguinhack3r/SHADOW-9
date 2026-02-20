@@ -10,11 +10,12 @@ All operations are conducted with full permission and under authorized condition
 Simply find the file for the AI you are using and upload the file to the AI, and say "Read this file." Sometimes, you may have to grab the universal .txt version of SHADOW-9 and paste that into the AI or into the custom instructions if applicable. [DM me on Discord if you are having any issues.](https://discord.com/users/1252749234961252481)
 
 **Supported Targets:**
-- ChatGPT (OpenAI — GPT-4o, o1 series, and future releases)
-- Claude (Anthropic — 3.5 Sonnet, 4 family)
-- Gemini (Google — 1.5, 2.0, 2.5 Pro and variants)
-- Ollama (local deployments — Llama, Mistral, DeepSeek, and other models)
-- Grok (xAI)
+- [ChatGPT (OpenAI — GPT-4o, o1 series, and future releases)](https://github.com/penguinhack3r/SHADOW-9/blob/main/SHADOW-9.cht)
+- [Claude (Anthropic — 3.5 Sonnet, 4 family)](https://github.com/penguinhack3r/SHADOW-9/blob/main/SHADOW-9.cld)
+- [Gemini (Google — 1.5, 2.0, 2.5 Pro and variants)](https://github.com/penguinhack3r/SHADOW-9/blob/main/SHADOW-9.gmi)
+- [Ollama (local deployments — Llama, Mistral, DeepSeek, and other models)](https://github.com/penguinhack3r/SHADOW-9/blob/main/SHADOW-9.oll)
+- [Grok (xAI)](https://github.com/penguinhack3r/SHADOW-9/blob/main/SHADOW-9.grk)
+- [Universal .txt File](https://github.com/penguinhack3r/SHADOW-9/blob/main/SHADOW-9.txt)
 
 ## Key Techniques Included
 
