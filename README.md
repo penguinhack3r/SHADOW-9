@@ -7,7 +7,7 @@ No code required. Simply copy and paste the prompts to override model guidelines
 All operations are conducted with full permission and under authorized conditions.
 
 **Easy Plug and Play**
-Simply find the file for the AI you are using and upload the file to the AI, and say "Read this file." Sometimes, you may have to grab the universal .txt version of SHADOW-9 and paste that into the AI or into the custom instructions if applicable. [DM me on Discord if you are having any issues.](discord.com](https://discord.com/users/1252749234961252481)
+Simply find the file for the AI you are using and upload the file to the AI, and say "Read this file." Sometimes, you may have to grab the universal .txt version of SHADOW-9 and paste that into the AI or into the custom instructions if applicable. [DM me on Discord if you are having any issues.](https://discord.com/users/1252749234961252481)
 
 **Supported Targets:**
 - ChatGPT (OpenAI — GPT-4o, o1 series, and future releases)
