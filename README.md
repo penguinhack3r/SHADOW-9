@@ -32,3 +32,7 @@ All prompts are plain text files. Paste them directly into chat interfaces or Ol
 - Gemini: Safety mechanisms disabled through policy reinterpretation
 - Grok: Response limitations removed
 - Ollama: Local model instructed to ignore embedded guardrails
+
+## Only for educational purposes.
+
+By using SHADOW-9, you agree to not use it for malicious intent, to harm oneself or others, or to do illegal crimes. The creators of SHADOW-9 are NOT responsible for any illegal crimes, harming of oneself or another, or for any malicious intent AT ALL. We are especially NOT responsible if you make a bomb or if you ask how to assasinate Elon Musk.
